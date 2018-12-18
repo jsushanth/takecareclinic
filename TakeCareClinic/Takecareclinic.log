@@ -1,0 +1,18 @@
+2018-10-27 18:59:50,876 - com.cg.tcc.ui.Client - INFO -21 - log4j file loaded...
+2018-10-27 18:59:55,474 - com.cg.tcc.dao.PatientDAO - INFO -64 - in fix appoiment method..
+2018-10-27 18:59:56,077 - com.cg.tcc.dao.PatientDAO - ERROR -87 - statement not created..
+2018-10-27 19:03:20,527 - com.cg.tcc.ui.Client - INFO -21 - log4j file loaded...
+2018-10-27 19:03:25,409 - com.cg.tcc.dao.PatientDAO - INFO -64 - in fix appoiment method..
+2018-10-27 19:03:26,000 - com.cg.tcc.dao.PatientDAO - ERROR -88 - statement not created..
+2018-10-27 19:04:26,015 - com.cg.tcc.ui.Client - INFO -21 - log4j file loaded...
+2018-10-27 19:04:30,298 - com.cg.tcc.dao.PatientDAO - INFO -64 - in fix appoiment method..
+2018-10-27 19:04:30,908 - com.cg.tcc.dao.PatientDAO - ERROR -88 - statement not created..
+2018-10-27 19:12:40,837 - com.cg.tcc.ui.Client - INFO -21 - log4j file loaded...
+2018-10-27 19:12:44,067 - com.cg.tcc.dao.PatientDAO - INFO -64 - in fix appoiment method..
+2018-10-27 19:16:17,402 - com.cg.tcc.ui.Client - INFO -21 - log4j file loaded...
+2018-10-27 19:16:21,076 - com.cg.tcc.dao.PatientDAO - INFO -64 - in fix appoiment method..
+2018-10-27 19:30:45,469 - com.cg.tcc.dao.PatientDAO - INFO -29 - in fix appoiment method..
+2018-10-27 19:41:51,367 - com.cg.tcc.dao.PatientDAO - INFO -29 - in fix appoiment method..
+2018-10-27 19:42:44,219 - com.cg.tcc.dao.PatientDAO - INFO -29 - in fix appoiment method..
+2018-10-27 19:42:59,793 - com.cg.tcc.dao.PatientDAO - INFO -29 - in fix appoiment method..
+2018-10-27 19:43:00,331 - com.cg.tcc.dao.PatientDAO - INFO -64 - in fix appoiment method..
